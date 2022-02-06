@@ -24,12 +24,39 @@ body {
     width: 500px;
 }
 
+#in-table {
+    width: 250px; 
+    height: 712px;
+    top: 100px;
+    left: -100px;
+    position: absolute;
+    display: table;
+    background-color: white !important;
+    text-decoration: none !important;
+    border: 1px solid #6BBE92 !important;
+}
+
+#fila {
+    display: table-row;
+    width: 600px;
+}
+
+#columna {
+    display: table-cell;
+    width: 500px;
+}
 .title_antivirus_subinicio {
     padding: 4px !important;
     left: 15cm;
     font-family: 'Neonderthaw', cursive !important;
     font-size: 0.7cm !important;
     text-transform: uppercase !important;
+}
+
+.font_antivirus_subinicio {
+    display: block;
+    position: relative !important;
+    text-align: center !important;
 }
 
 /* Layout */
@@ -62,7 +89,7 @@ body {
     text-decoration: none;
 	display: block;
 	position: absolute;
-	left: 850px;
+	left: 878px;
 	top: 250px;
 	color: black;
 	font-size: 17px;
@@ -110,4 +137,29 @@ body {
     width: 40px;
     height: 40px;
     position: absolute;
+}
+.buscador_antivirus {
+    position: absolute;
+    left: 120px;
+    text-align: center !important;
+}
+.subtitle_antivirus ul li a {
+    cursor: pointer;
+    text-decoration: none !important;
+}
+
+.subtitle_antivirus ul li a:hover {
+    text-decoration: underline !important;
+}
+
+.buscador__hr_antivirus {
+    position: absolute;
+    left: -2px;
+}
+
+.buscador_antivirus ul li {
+    text-decoration: none !important;
+    list-style: none !important;
+    position: absolute;
+    left: 60px;
 }
