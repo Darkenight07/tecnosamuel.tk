@@ -1,0 +1,113 @@
+body {
+    background-color: rgb(214, 211, 211)!important;
+}
+
+.in-table {
+    width: 1300px; 
+    height: 795px;
+    top: 100px;
+    left: 330px;
+    position: absolute;
+    display: table;
+    background-color: white !important;
+    text-decoration: none !important;
+    border: 1px solid #6BBE92 !important;
+}
+
+.fila {
+    display: table-row;
+    width: 600px;
+}
+
+.columna {
+    display: table-cell;
+    width: 500px;
+}
+
+.title_antivirus_subinicio {
+    padding: 4px !important;
+    left: 15cm;
+    font-family: 'Neonderthaw', cursive !important;
+    font-size: 0.7cm !important;
+    text-transform: uppercase !important;
+}
+
+/* Layout */
+.layout_a-fin {
+    background-color: #6BBE92;
+    width: 1900px;
+    height: 300px;
+	position: absolute !important;
+    top: 985px !important;
+}
+        /* Contacto en layout */
+.contact_layout {
+    text-decoration: none;
+    display: block;
+    position: absolute;
+    left: 935px !important;
+    top: 100px !important;
+	color: black;
+	font-size: 17px;
+}
+
+.contact_layout:hover {
+	background-color: #417559;
+	border-radius: 200px;
+	text-shadow: 1px 1px white;
+    text-decoration: underline;
+}
+
+.copyright_layout {
+    text-decoration: none;
+	display: block;
+	position: absolute;
+	left: 850px;
+	top: 250px;
+	color: black;
+	font-size: 17px;
+}
+
+.layout_enc {
+    background-color: white;
+	position: absolute;
+    width: 1900px;
+    height: 20px;
+	top: 970px;
+}
+
+.layout_twitter {
+    text-decoration: none;
+    display: block;
+    position: absolute;
+    left: 250px !important;
+    top: 115px;
+	color: black;
+	font-size: 17px;
+}
+
+
+.layout_ins {
+    top: 134px;
+    left: 1646px;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    display: block;
+}
+
+.layout_ins:hover {
+    border-radius: 7px;
+    box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.15);
+    width: 50px;
+    height: 50px;
+}
+
+
+.layout_siguenos {
+    top: 112px;
+    left: 1638px;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+}
