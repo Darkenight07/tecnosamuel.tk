@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2? family=Neonderthaw&display=swap');
+:root {
+    --fondoweb: rgb(214, 211, 211);
+}
+
+body {
+    background-color: var(--fondoweb) !important;
+}
+
+.canal_youtube {
+    font-family: 'Neonderthaw', cursive !important;
+    font-size: 30px;
+    background-color: white;
+    height: 100px;
+    width: 1900px;
+}
+
+
+
+.canal_youtube_text:hover {
+    background-color: rgb(236, 234, 234);
+    border-radius: 200px !important;
+    text-shadow: 3px 2px #6BBE92;
+    text-decoration-line: underline;
+}
+
+
+
+.canal_youtube_text {
+    text-decoration: none;
+    color: rgb(53, 53, 53) !important;
+}
+
+
+
+.vid__1 {
+    padding: 12px;
+    margin: 5px;
+
+}
+
+
+.vid__2 {
+    padding: 12px;
+    margin: 5px;
+    display: inline-block;
+    position: absolute;
+    left: 800px;
+}
+
+
+.vid__3 {
+    padding: 12px;
+    margin: 5px;
+    position: absolute;
+    left: 1505px
+}
+
+/* Layout -----*/
+.layout_a-fin {
+    background-color: #6BBE92;
+    width: 1900px;
+    height: 190px;
+}
+        /* Contacto en layout */
+.contact_layout {
+    text-decoration: none;
+    display: block;
+    position: absolute;
+    left: 935px !important;
+    top: 1040px !important;
+	color: black;
+	font-size: 17px;
+}
+
+.contact_layout:hover {
+	background-color: #417559;
+	border-radius: 200px;
+	text-shadow: 1px 1px white;
+    text-decoration: underline;
+}
+
+.copyright_layout {
+    text-decoration: none;
+	display: block;
+	position: absolute;
+	left: 1038px;
+	top: 1180px;
+	color: black;
+	font-size: 17px;
+}
+
+.layout_enc {
+    background-color: white;
+    width: 1900px;
+    height: 20px;
+}
+
+.layout_twitter {
+    text-decoration: none;
+    display: block;
+    position: absolute;
+    left: 300px !important;
+    top: 1102px;
+	color: black;
+	font-size: 17px;
+}
+
+
+.layout_ins {
+    top: 1102px;
+    left: 1646px;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    display: block;
+}
+
+.layout_ins:hover {
+    border-radius: 7px;
+    box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.15);
+    width: 50px;
+    height: 50px;
+}
+
+
+.layout_siguenos {
+    top: 1080px;
+    left: 1638px;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+}
+

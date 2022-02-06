@@ -1,0 +1,27 @@
+.cookies {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: white;
+    color: black;
+    font-family: arial;
+    text-align: center;
+    opacity: 0.9 !important;
+}
+                
+.cookies__boton {
+    background: initial;
+    border: 2px solid black;
+    padding: 1rem;
+    font-size: 1rem;
+    color: black;
+    width: 5rem;
+    text-align: center;
+    cursor: pointer;
+    opacity: 1 !important;
+}
+                 
+.cookies__boton:hover {
+    background-color: #6BBE92 !important;
+}
