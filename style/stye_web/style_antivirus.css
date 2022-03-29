@@ -270,3 +270,11 @@ li {
     text-decoration: none !important;
     color: black !important;
   }
+
+.fondo-blanco_contenidos {
+  background-color: rgb(255, 255, 255) !important;
+	position: relative;
+	display: block;
+	padding-bottom: 906px;
+	margin-right: 1568px;
+}
