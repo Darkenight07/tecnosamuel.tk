@@ -6,7 +6,7 @@ window.cookieconsent.initialise({
     },
     "button": {
       "background": "#ffffff"
-    }
+    } 
   },
   "content": {
     "message": "Utilizamos cookies propias o de terceros para mejorar el servicio, si aceptas considermos que eres consciente de ello.",
