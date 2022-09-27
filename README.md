@@ -6,4 +6,4 @@ conocimientos en HTML, css.
 
 Actualmente mi web esta online: www.tecnosamuel.tk
 
-Este repositorio esta actualmente DESACTUALIZADO.
+Este repositorio esta actualmente DESACTUALIZADO. 
