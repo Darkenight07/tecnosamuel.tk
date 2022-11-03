@@ -7,4 +7,4 @@ alert("Gracias por aceptar, te dirigeremos a mi web");
 else {
 alert("Te dirigeremos a Google");
     window.location.href = "http://www.google.com";
-} 
+}
